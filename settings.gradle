@@ -1,0 +1,4 @@
+rootProject.name = 'multithread_1'
+include 'task_1'
+include 'task_2'
+
